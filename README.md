@@ -1,4 +1,4 @@
-# Ethiopvweb
+# Ethiopia Solar PV Assessment Tool
 This tool helps you assess the solar photovoltaic (PV) potential in Ethiopia. It provides technical and financial analysis to help you make informed decisions about installing solar panels.
 
 ### How to use:
